@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tigerpanda586
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Jessica Brown majoring in Economics at Mercer University
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 11019115@live.mercer.edu
